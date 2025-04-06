@@ -1,2 +1,2 @@
-# Flutter-project
+# flutter-project
 My first Flutter project
